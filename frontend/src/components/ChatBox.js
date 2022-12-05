@@ -66,6 +66,7 @@ export default function ChatBox() {
             }, 1000);
             setMessageBody("");
         }
+        //test
     }
   return (
     <div className='chatbox'>
