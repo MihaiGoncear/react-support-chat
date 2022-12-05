@@ -1,12 +1,12 @@
 {
-  "name": "chat-react",
+  "name": "support-desk-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Lessons",
   "main": "index.js",
   "scripts": {
-    "build": "cd backend && npm install && cd ../frontend && npm inistall && npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node backend/server.js"
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
